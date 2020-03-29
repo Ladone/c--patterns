@@ -11,6 +11,9 @@ namespace Duck
             mallard.performQuack();
             mallard.performFly();
             mallard.display();
+            
+            Duck myDuck = new MyDuck();
+            myDuck.display();
         }
     }
 }
