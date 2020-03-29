@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/ladone/.dotnet/store/|arch|/|tfm|",
+      "/Users/ladone/.nuget/packages"
+    ]
+  }
+}
