@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Xml.Schema;
-using Duck.Behaviour;
+﻿using Duck.Behaviour;
 
 namespace Duck
 {
