@@ -28,6 +28,15 @@ namespace Duck
         {
             Console.WriteLine("All ducks float, even decoys!");
         }
-        
+
+        public void setFlyBehaviour(FlyBehavior fb)
+        {
+            this.flyBehavior = fb;
+        }
+
+        public void setQuackBehaviour(QuackBehavior qb)
+        {
+            this.quackBehavior = qb;
+        }
     }
 }

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duck", "Duck\Duck.csproj", "{EDCD57F1-8687-4B28-98B0-157C288B7785}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{EDCD57F1-8687-4B28-98B0-157C288B7785}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

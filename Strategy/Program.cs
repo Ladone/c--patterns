@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Xml.Schema;
+using Duck.Behaviour;
 
 namespace Duck
 {
@@ -9,11 +11,10 @@ namespace Duck
         {
             Duck mallard = new MallardDuck();
             mallard.performQuack();
-            mallard.performFly();
             mallard.display();
-            
-            Duck myDuck = new MyDuck();
-            myDuck.display();
+            mallard.performFly();
+            mallard.setFlyBehaviour(new FlyRocketPowered());
+            mallard.performFly();
         }
     }
 }

@@ -6,7 +6,7 @@ namespace Duck
     {
         public override void display()
         {
-            Console.WriteLine("My Duck");
+            Console.WriteLine("My Strategy");
         }
     }
 }
