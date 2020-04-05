@@ -1,3 +1,8 @@
 /Strategy/Duck/\.idea/
 /Strategy/Duck/*/bin/
 /Strategy/Duck/*/obj/
+/Strategy/Adventure/\.idea/
+/Strategy/Adventure/*/bin/
+/Strategy/Adventure/*/obj/
+.*obj/
+.*bin/
