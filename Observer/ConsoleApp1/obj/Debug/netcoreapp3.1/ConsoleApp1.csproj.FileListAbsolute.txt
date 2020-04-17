@@ -1,0 +1,12 @@
+/Users/ladone/Dev/dotnetcore/patterns/Patterns/Observer/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.deps.json
+/Users/ladone/Dev/dotnetcore/patterns/Patterns/Observer/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.json
+/Users/ladone/Dev/dotnetcore/patterns/Patterns/Observer/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.dev.json
+/Users/ladone/Dev/dotnetcore/patterns/Patterns/Observer/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll
+/Users/ladone/Dev/dotnetcore/patterns/Patterns/Observer/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb
+/Users/ladone/Dev/dotnetcore/patterns/Patterns/Observer/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache
+/Users/ladone/Dev/dotnetcore/patterns/Patterns/Observer/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/ladone/Dev/dotnetcore/patterns/Patterns/Observer/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/ladone/Dev/dotnetcore/patterns/Patterns/Observer/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfo.cs
+/Users/ladone/Dev/dotnetcore/patterns/Patterns/Observer/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll
+/Users/ladone/Dev/dotnetcore/patterns/Patterns/Observer/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb
+/Users/ladone/Dev/dotnetcore/patterns/Patterns/Observer/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.genruntimeconfig.cache
