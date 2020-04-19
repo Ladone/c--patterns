@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{512BD7EB-586C-4A2A-AA7C-F2CC07329B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{BE5A043B-343C-45D5-90B4-5864EECA19EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{512BD7EB-586C-4A2A-AA7C-F2CC07329B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512BD7EB-586C-4A2A-AA7C-F2CC07329B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512BD7EB-586C-4A2A-AA7C-F2CC07329B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512BD7EB-586C-4A2A-AA7C-F2CC07329B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5A043B-343C-45D5-90B4-5864EECA19EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5A043B-343C-45D5-90B4-5864EECA19EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5A043B-343C-45D5-90B4-5864EECA19EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5A043B-343C-45D5-90B4-5864EECA19EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
