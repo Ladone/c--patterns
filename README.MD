@@ -6,5 +6,9 @@ Patterns from the book by Eric Freeman and Elizabeth Freeman Design Patterns pub
 
 
 ## Patterns
-1. [Strategy][https://github.com/Ladone/c-sharp-patterns/tree/master/Strategy]
-2. [Observer][https://github.com/Ladone/c-sharp-patterns/tree/master/Observer]
+1. [Strategy][1]
+2. [Observer][2]
+
+
+[1]: https://github.com/Ladone/c-sharp-patterns/tree/master/Strategy
+[2]: https://github.com/Ladone/c-sharp-patterns/tree/master/Observer
