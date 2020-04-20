@@ -1,3 +1,5 @@
+using System;
+
 namespace Decorator.Model
 {
     public abstract class Beverage
@@ -9,6 +11,11 @@ namespace Decorator.Model
             return description;
         }
 
-        public abstract double cost();
+        public void DisplayCost()
+        {
+            Console.WriteLine(String.Format("{0}, ${1}\n", getDescription(), Cost().ToString()));
+        }
+
+        public abstract double Cost();
     }
 }

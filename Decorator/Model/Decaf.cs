@@ -1,15 +1,15 @@
 namespace Decorator.Model
 {
-    public class Espresso: Beverage
+    public class Decaf: Beverage
     {
-        public Espresso()
+        public Decaf()
         {
-            description = "Espresso";
+            description = "Decaf Coffee";
         }
         
         public override double Cost()
         {
-            return 1.99;
+            return 1.05;
         }
     }
 }

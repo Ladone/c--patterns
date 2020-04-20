@@ -11,9 +11,9 @@ namespace Decorator.Model
             this.Beverage = beverage;
         }
 
-        public override double cost()
+        public override double Cost()
         {
-            return .20 + Beverage.cost();
+            return .20 + Beverage.Cost();
         }
 
         public override string getDescription()

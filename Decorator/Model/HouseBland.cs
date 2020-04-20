@@ -7,7 +7,7 @@ namespace Decorator.Model
             description = "House Blend Coffee";
         }
         
-        public override double cost()
+        public override double Cost()
         {
             return .89;
         }

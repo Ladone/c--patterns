@@ -8,13 +8,19 @@ namespace Decorator
         static void Main(string[] args)
         {
             Beverage espresso = new Espresso();
-            Console.WriteLine(String.Format("{0}, ${1}\n", espresso.getDescription(), espresso.cost().ToString()));
-
+            espresso.DisplayCost();
+            
+            Beverage darkRoast = new DarkRoast();
+            darkRoast = new Mocha(darkRoast);
+            darkRoast = new Mocha(darkRoast);
+            darkRoast = new Whip(darkRoast);
+            darkRoast.DisplayCost();
+            
             Beverage houseBland = new HouseBland();
             houseBland = new Soy(houseBland);
             houseBland = new Mocha(houseBland);
             houseBland = new Whip(houseBland);
-            Console.WriteLine(String.Format("{0}, ${1}\n", houseBland.getDescription(), houseBland.cost().ToString()));
+            houseBland.DisplayCost();
         }
     }
 }

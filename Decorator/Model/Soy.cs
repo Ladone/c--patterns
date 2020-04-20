@@ -16,9 +16,9 @@ namespace Decorator.Model
             return String.Format("{0}, {1}", this.Beverage.getDescription(), "Soy");
         }
 
-        public override double cost()
+        public override double Cost()
         {
-            return .15 + Beverage.cost();
+            return .15 + Beverage.Cost();
         }
     }
 }

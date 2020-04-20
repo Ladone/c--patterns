@@ -14,12 +14,12 @@ namespace Decorator.Model
         
         public override string getDescription()
         {
-            return String.Format("{0}, {1}", Beverage.getDescription(), "Soy");
+            return String.Format("{0}, {1}", Beverage.getDescription(), "Whip");
         }
 
-        public override double cost()
+        public override double Cost()
         {
-            return .10 + Beverage.cost();;
+            return .10 + Beverage.Cost();;
         }
     }
 }
