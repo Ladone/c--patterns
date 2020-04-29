@@ -1,10 +1,10 @@
-namespace Factory.Model
+namespace FactorySimple.Model
 {
-    public class NYStylePepperoniPizza: Pizza
+    public class CheesePizza: Pizza
     {
-        public NYStylePepperoniPizza()
+        public CheesePizza()
         {
-            name = "NY Style Sauce and Cheese Pizza";
+            name  = "NY Style Sauce and Cheese Pizza";
             dough = "Thin Crust Dough";
             sauce = "Marinara Sauce";
 

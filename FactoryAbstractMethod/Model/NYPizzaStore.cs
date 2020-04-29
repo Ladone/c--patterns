@@ -14,12 +14,7 @@ namespace Factory.Model
             }
             else if (type.Equals("veggie"))
             {
-            }
-            else if (type.Equals("clam"))
-            {
-            }
-            else if (type.Equals("pepperoni"))
-            {
+                return new NYStyleVeggiePizza();
             }
             
             throw new Exception("Type of pizza not found");

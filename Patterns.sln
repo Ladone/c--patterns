@@ -6,7 +6,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{48B7319B-C88D-4D82-BA62-9E3E51D1FCE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{32A17FD5-F867-4759-A1AF-71758C54F0AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryAbstractMethod", "FactoryAbstractMethod\FactoryAbstractMethod.csproj", "{32A17FD5-F867-4759-A1AF-71758C54F0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorySimple", "FactorySimple\FactorySimple.csproj", "{E8267812-F663-485D-990E-E121811440E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +32,9 @@ Global
 		{32A17FD5-F867-4759-A1AF-71758C54F0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32A17FD5-F867-4759-A1AF-71758C54F0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32A17FD5-F867-4759-A1AF-71758C54F0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8267812-F663-485D-990E-E121811440E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8267812-F663-485D-990E-E121811440E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8267812-F663-485D-990E-E121811440E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8267812-F663-485D-990E-E121811440E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
